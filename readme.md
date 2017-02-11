@@ -1,4 +1,8 @@
-![Flarum](http://flarum.org/img/logo.png)
+**Blitzz.in** is an experimental project exploring forums and communities centered around Bollywood, Movies and media content in India. Idea here is to create a concept combining the features of Twitter and Reddit, and solve the current problems both these platfroms have. 
+
+This project is based on Flarum project (Linked below). We owe a great depth of gratitude to the creators and contributors of Flarum, for creating such a wonderful Forum software.
+
+Over the course of time Blitzz.in may develop custom extensions pertaining to its needs. All extensions and any custom plugins developed will be made available to the community under MIT license
 
 **[Flarum](http://flarum.org) is free, open-source forum software** built with PHP and [Mithril.js](http://mithril.js.org). It is:
 
