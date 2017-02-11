@@ -1,6 +1,8 @@
-**Blitzz.in** is an experimental project exploring forums and communities centered around Bollywood, Movies and media content in India. Idea here is to create a concept combining the features of Twitter and Reddit, and solve the current problems both these platfroms have. Results and observations will be shared in a separate blog 
+## Blitzz.in
+**[Blitzz.in](http://blitzz.in)** is an experimental project exploring forums and communities centered around Bollywood, Movies and media content in India. Idea here is to create a concept combining the features of Twitter and Reddit, and solve the current problems both these platfroms have. Results and observations will be shared in a separate blog. Another objective of this concept is to explore fair and free media distribution platform independent of influencers and powerful media companies 
 
-**Platform:** This project is based on Flarum project (Linked below). We owe a great depth of gratitude to the creators and contributors of Flarum, for creating such a wonderful Forum software.
+## Platform
+This project is based on Flarum project (Linked below). We owe a great depth of gratitude to the creators and contributors of Flarum, for creating such a wonderful Forum software.
 
 Over the course of time Blitzz.in may develop custom extensions pertaining to its needs. All extensions and any custom plugins developed will be made available to the community under MIT license
 
