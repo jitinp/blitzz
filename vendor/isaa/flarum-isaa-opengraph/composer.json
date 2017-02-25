@@ -1,0 +1,28 @@
+{
+    "name": "isaa/flarum-isaa-opengraph",
+    "description": "Opengraph for flarum.",
+    "type": "flarum-extension",
+    "keywords": ["opengraph", "flarum", "embedding"],
+    "license": "MIT",
+    "authors": [
+        { "name": "Marco Zambianchi for ISAA Techcnical Team", "email": "marco.zambianchi@isaa.it" }
+    ],
+    "support": {
+        "issues": "https://github.com/ItalianSpaceAstronauticsAssociation/flarum-isaa-opengraph/issues",
+        "source": "https://github.com/ItalianSpaceAstronauticsAssociation/flarum-isaa-opengraph"
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "flarum/core": "^0.1.0-beta.5"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "OpenGraph"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+          "ISAA\\OpenGraph\\": "src/"
+        }
+    }
+}
