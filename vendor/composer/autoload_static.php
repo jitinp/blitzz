@@ -34,6 +34,11 @@ class ComposerStaticInitcc4efc0300c1d40185da7b14a96b1b74
         array (
             'Whoops\\' => 7,
         ),
+        'V' => 
+        array (
+            'Vingle\\Share\\Social\\' => 20,
+            'Vingle\\Configure\\Smtp\\' => 22,
+        ),
         'T' => 
         array (
             'Tobscure\\JsonApi\\' => 17,
@@ -91,6 +96,7 @@ class ComposerStaticInitcc4efc0300c1d40185da7b14a96b1b74
             'Illuminate\\Config\\' => 18,
             'Illuminate\\Cache\\' => 17,
             'Illuminate\\Bus\\' => 15,
+            'ISAA\\OpenGraph\\' => 15,
         ),
         'G' => 
         array (
@@ -121,6 +127,7 @@ class ComposerStaticInitcc4efc0300c1d40185da7b14a96b1b74
             'Flarum\\' => 7,
             'Flagrow\\Upload\\' => 15,
             'Flagrow\\ImageUpload\\' => 20,
+            'Flagrow\\Analytics\\' => 18,
             'FastRoute\\' => 10,
         ),
         'D' => 
@@ -156,6 +163,14 @@ class ComposerStaticInitcc4efc0300c1d40185da7b14a96b1b74
         'Whoops\\' => 
         array (
             0 => __DIR__ . '/..' . '/filp/whoops/src/Whoops',
+        ),
+        'Vingle\\Share\\Social\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/vingle/flarum-share-social/src',
+        ),
+        'Vingle\\Configure\\Smtp\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/vingle/flarum-configure-smtp/src',
         ),
         'Tobscure\\JsonApi\\' => 
         array (
@@ -307,6 +322,10 @@ class ComposerStaticInitcc4efc0300c1d40185da7b14a96b1b74
         array (
             0 => __DIR__ . '/..' . '/illuminate/bus',
         ),
+        'ISAA\\OpenGraph\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/isaa/flarum-isaa-opengraph/src',
+        ),
         'GuzzleHttp\\Psr7\\' => 
         array (
             0 => __DIR__ . '/..' . '/guzzlehttp/psr7/src',
@@ -402,6 +421,10 @@ class ComposerStaticInitcc4efc0300c1d40185da7b14a96b1b74
         'Flagrow\\ImageUpload\\' => 
         array (
             0 => __DIR__ . '/..' . '/flagrow/flarum-ext-image-upload/src',
+        ),
+        'Flagrow\\Analytics\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/flagrow/flarum-ext-analytics/src',
         ),
         'FastRoute\\' => 
         array (

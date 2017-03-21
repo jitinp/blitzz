@@ -45,7 +45,8 @@
         "flagrow/upload": "^0.4.6",
         "flagrow/flarum-ext-analytics": "^0.5.0",
         "vingle/flarum-share-social": "^0.1.0",
-        "isaa/flarum-isaa-opengraph": "^0.1.0"
+        "isaa/flarum-isaa-opengraph": "^0.1.0",
+        "vingle/flarum-configure-smtp": "^0.2.0"
     },
     "require-dev": {
         "franzl/studio": "^0.11.0"

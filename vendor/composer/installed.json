@@ -4968,5 +4968,213 @@
             "flarum",
             "upload"
         ]
+    },
+    {
+        "name": "flagrow/flarum-ext-analytics",
+        "version": "0.5.0",
+        "version_normalized": "0.5.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/flagrow/flarum-ext-analytics.git",
+            "reference": "8fc5b36e37cd642ffad2a3c5062711da080206c4"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/flagrow/flarum-ext-analytics/zipball/8fc5b36e37cd642ffad2a3c5062711da080206c4",
+            "reference": "8fc5b36e37cd642ffad2a3c5062711da080206c4",
+            "shasum": ""
+        },
+        "require": {
+            "flarum/core": "^0.1.0-beta.6"
+        },
+        "time": "2016-10-24T11:19:57+00:00",
+        "type": "flarum-extension",
+        "extra": {
+            "flarum-extension": {
+                "title": "Analytics",
+                "icon": {
+                    "name": "line-chart",
+                    "backgroundColor": "#74000E",
+                    "color": "#BE1E31"
+                }
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Flagrow\\Analytics\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Daniël Klabbers",
+                "email": "daniel+flarum@klabbers.email",
+                "homepage": "http://hyn.io"
+            },
+            {
+                "name": "Santiago Testa Biali",
+                "email": "santiago.t.biali@gmail.com"
+            }
+        ],
+        "description": "Tracks analytics using googles and piwik metric tool analytics",
+        "keywords": [
+            "analytics",
+            "flagrow",
+            "flarum"
+        ]
+    },
+    {
+        "name": "vingle/flarum-share-social",
+        "version": "0.1.0",
+        "version_normalized": "0.1.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/tutula1/vingle-share-social.git",
+            "reference": "0ce19c16e926c1d42e091218e627ec56be073506"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/tutula1/vingle-share-social/zipball/0ce19c16e926c1d42e091218e627ec56be073506",
+            "reference": "0ce19c16e926c1d42e091218e627ec56be073506",
+            "shasum": ""
+        },
+        "require": {
+            "flarum/core": "^0.1.0-beta.3"
+        },
+        "time": "2015-12-13T10:36:14+00:00",
+        "type": "flarum-extension",
+        "extra": {
+            "flarum-extension": {
+                "title": "_ Share Social",
+                "icon": {
+                    "name": "share-alt",
+                    "backgroundColor": "#000",
+                    "color": "#FF0"
+                }
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Vingle\\Share\\Social\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "authors": [
+            {
+                "name": "Binh Duong",
+                "email": "binh.duong@vingle.net"
+            }
+        ],
+        "description": "Include share social button.",
+        "keywords": [
+            "facebook",
+            "google",
+            "google plus",
+            "share",
+            "social",
+            "twitter"
+        ]
+    },
+    {
+        "name": "isaa/flarum-isaa-opengraph",
+        "version": "0.1",
+        "version_normalized": "0.1.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ItalianSpaceAstronauticsAssociation/flarum-isaa-opengraph.git",
+            "reference": "876e8c6c60b9453604e4a92f9484a1826b1fed25"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/ItalianSpaceAstronauticsAssociation/flarum-isaa-opengraph/zipball/876e8c6c60b9453604e4a92f9484a1826b1fed25",
+            "reference": "876e8c6c60b9453604e4a92f9484a1826b1fed25",
+            "shasum": ""
+        },
+        "require": {
+            "flarum/core": "^0.1.0-beta.5"
+        },
+        "time": "2016-09-05T20:42:29+00:00",
+        "type": "flarum-extension",
+        "extra": {
+            "flarum-extension": {
+                "title": "OpenGraph"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "ISAA\\OpenGraph\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Marco Zambianchi for ISAA Techcnical Team",
+                "email": "marco.zambianchi@isaa.it"
+            }
+        ],
+        "description": "Opengraph for flarum.",
+        "keywords": [
+            "embedding",
+            "flarum",
+            "opengraph"
+        ]
+    },
+    {
+        "name": "vingle/flarum-configure-smtp",
+        "version": "0.2.0",
+        "version_normalized": "0.2.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/tutula1/vingle-configure-smtp.git",
+            "reference": "52cd54cb143715be553dc11f023da0cd9502c345"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/tutula1/vingle-configure-smtp/zipball/52cd54cb143715be553dc11f023da0cd9502c345",
+            "reference": "52cd54cb143715be553dc11f023da0cd9502c345",
+            "shasum": ""
+        },
+        "require": {
+            "flarum/core": "^0.1.0-beta.5"
+        },
+        "time": "2016-04-07T04:07:17+00:00",
+        "type": "flarum-extension",
+        "extra": {
+            "flarum-extension": {
+                "title": "Configure SMTP",
+                "icon": {
+                    "name": "cogs",
+                    "backgroundColor": "#000",
+                    "backgroundSize": "100%",
+                    "color": "#ff0"
+                }
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Vingle\\Configure\\Smtp\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "authors": [
+            {
+                "name": "Binh Duong",
+                "email": "binh.duong@vingle.net"
+            }
+        ],
+        "description": "SMTP Config UI.",
+        "keywords": [
+            "smtp"
+        ]
     }
 ]
